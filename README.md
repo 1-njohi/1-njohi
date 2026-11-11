@@ -64,7 +64,7 @@ A members only Inventory and Sales management tool for my parent's shop
 
 ## Tech I work with
 
-Laravel, PHP, Vue 3, Inertia, Tailwind CSS, TypeScript
+Laravel, PHP, Python, Vue 3, Inertia, Tailwind CSS, TypeScript
 
 ***
 
