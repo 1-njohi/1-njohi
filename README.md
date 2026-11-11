@@ -4,48 +4,6 @@ I am a full stack developer in Kenya. I design, build and ship production web ap
 
 ***
 
-## Currently building: Fainali
-
-**Football predictions where your record is the product.**
-
-[Visit Fainali](https://fainali-production-tmqm88.laravel.cloud/)
-
-Fainali is an original football prediction platform built for the Kenyan market. Today, tipsters on Telegram, WhatsApp and social media sell picks with no proof, no accountability and no refunds. Fainali replaces claims with verified records. Every pick is timestamped, settled automatically against a real data feed, and added to a public track record that nobody can edit.
-
-### How it works
-
-**Play**
-Free matchday contests with no stake, no entry fee and no cash prize. Make your picks, join private sub leagues of up to 20 friends and climb live leaderboards. Play is where reputation starts.
-
-**Browse**
-A marketplace for betslips. Buyers pay into escrow, the money is released to the seller only after the results are verified, and a voided slip means a full refund. Buyers get proof before they commit.
-
-**Sell**
-Selling is earned, not claimed. A picker unlocks listing rights after 20 settled picks at 55% accuracy over a rolling 90 days, and loses them if their record stays below 50%. Only people who have proven themselves can sell.
-
-### What sits around the core
-
-* Analyst picks: free editorial picks every matchday from a named in house analyst, with a public win and loss archive and ROI
-* Log a bet: track bets placed on any external bookmaker, with automatic settlement and personal analytics
-* Fixture pages: odds comparison, crowd signals and your own history on every match
-* Confidence ratings: every pick carries a rating from 1 to 5 that feeds a reputation score
-* Divergence signals: see where the crowd and the top 10% of pickers disagree
-* Public seller record pages: a full verifiable history behind every seller
-* Shareable result cards built for WhatsApp
-
-Fainali takes no bets. It is a layer of proof and accountability that sits on top of how people already follow football.
-
-### Under the hood
-
-* Laravel backend with fixtures and odds sync, a settlement engine, a wallet and escrow system, marketplace purchase flow, contests, sub leagues, seller eligibility gating and conflict detection
-* Vue 3, Inertia and Tailwind frontend, designed mobile first around four tabs: Play, Fixtures, Slips and Me
-* A single design system and one record model underneath every surface, so a pick looks and behaves the same whether it was submitted, sold, bought or logged
-* Deployed on Laravel Cloud
-
-**Status:** actively in development, pre launch.
-
-***
-
 ## Shipped to production
 
 **[Adili Real Estate](https://adilirealestate.com/)**
