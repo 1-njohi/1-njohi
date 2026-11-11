@@ -58,7 +58,7 @@ Free, confidential mental health screening tools for The Psych Centre in Nairobi
 A website for a pharmacy in Karatina Town, covering prescription dispensing, medication counseling, chronic care support, health screening services, appointments and one tap WhatsApp contact.
 
 **[The Promise Shop](https://promise.adilirealestate.com/)**
-A members only web application for Adili Real Estate, running on its own subdomain behind secure sign in.
+A members only Inventory and Sales management tool for my parent's shop
 
 ***
 
@@ -70,8 +70,6 @@ Laravel, PHP, Vue 3, Inertia, Tailwind CSS, TypeScript
 
 ## Get in touch
 
-* Email: [your email]
-* LinkedIn: [your link]
-* X: [your handle]
-
+* Email: denis.mwangi24@students.dkut.ac.ke
+  
 Open to collaborations, freelance projects and conversations about Fainali.
