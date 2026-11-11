@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Denis Wanjohi Mwangi
 
 I am a full stack developer in Kenya. I design, build and ship production web applications using Laravel, Vue 3, Inertia and Tailwind CSS. I like products that solve a real local problem and I build them end to end, from the database and the settlement logic to the last pixel on a 360px phone screen.
 
